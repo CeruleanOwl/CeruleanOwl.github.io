@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
-
-* [Home](/)
-* [Enhancement One](enhancementone.md)
-* [Enhancement Two](enhancementtwo.md)
-* [Enhancement Three](enhancementthree.md)
-* [Code Review](codereview.md)
+- ePortolio
+  * [Home](/)
+  * [Enhancement One](enhancementone)
+  * [Enhancement Two](enhancementtwo)
+  * [Enhancement Three](enhancementthree)
+  * [Code Review](codereview)
