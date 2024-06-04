@@ -1,4 +1,4 @@
-- ePortfolio Choices
+<!-- docs/_sidebar.md -->
 
 * [Home](/)
 * [Enhancement One](enhancementone.md)
