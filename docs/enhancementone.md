@@ -10,5 +10,4 @@ The reason this artifact was included in my ePortfolio is to demonstrate an abil
 
 ## Showcase
 
-Welcome message and menu showcase:
 ![Enhancement One Showcase](Pictures/EnhancementOneShowcase1.png)
