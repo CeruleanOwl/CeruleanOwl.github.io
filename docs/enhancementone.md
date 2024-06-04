@@ -11,3 +11,5 @@ The reason this artifact was included in my ePortfolio is to demonstrate an abil
 ## Showcase
 
 ![Enhancement One Showcase](Pictures/EnhancementOneShowcase1.png)
+
+Enhancement Files on my GitHub: [Enhancement One](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/Enhancements/EnhancementOne/Graz)
