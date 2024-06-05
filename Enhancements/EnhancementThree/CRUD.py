@@ -4,7 +4,7 @@ from bson.objectid import ObjectId
 class AnimalShelter(object):
     """ CRUD operations for Animal collection in MongoDB """
 
-    def __init__(self, USER='Employee', PASS='SNHU1234'):
+    def __init__(self, USER='', PASS=''):
         # Initializing the MongoClient. This helps to 
         # access the MongoDB databases and collections.
         # This is hard-wired to use the aac database, the 
