@@ -1,0 +1,30 @@
+MAT142,Precalculus with Limits
+MAT225,Calculus 1: Single-Variable Calculus,MAT142,MAT140
+MAT241,Modern Statistics with Software
+MAT243,Applied Statistics(STEM)
+IT145,Introduction to App Development,CS110
+CS110,Fundamentals of Programming
+PHY215,Physics,MAT225
+PHY150,Physics Lab,MAT142
+MAT239,Mathematics for Computing
+MAT230,Discrete Mathematics
+MAT350,Applied Linear Algebra,MAT225
+CS231,Database Systems,CS110,IT145
+DAD220,Relational Databases
+CS217,Object Oriented Programming,IT145,CS110
+CS300,Data Structures and Algorithms: Analysis and Design,MAT230,CS217,CS210
+CS210,Programming Languages,IT145
+CS250,Software Development Lifecycle,IT145
+CS230,Operating Platforms,CS210,CS217
+CS255,System Analysis and Design,IT145
+CS218,Data Stuctures and Algorithms,MAT230,CS210,CS217
+CS305,Software Security,IT145
+CS320,Software Testing Automation and Quality Assurance,IT145
+CS330,Computational Graphic and Visualization,CS210,CS217
+CS340,Client/Server Development,CS320
+CS350,Embedded Systems Development,CS340,CS330
+CS360,Mobile Architecture and Programming,IT145
+CS370,Current and Emerging Trends in Computer Science,CS300,CS218
+CS465,Full Stack Development,CS340
+CS490,Computer Science Internship,CS218,CS300
+CS499,Computer Science Capstone,CS340,CS218,111 credits
