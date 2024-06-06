@@ -2,7 +2,7 @@
 
 ## Origin
 
-This artifact was used in IT - 145 and was a terminal program for Grazioso Salvare. It was created back in April of 2021. The primary purpose of the artifact is to intake new animals, reserve animals, and allow a place for print options of those animals. 
+As mentioned on the home page, this artifact was used in IT - 145 and was a terminal program for Grazioso Salvare. It was created back in April of 2021. The primary purpose of the artifact is to intake new animals, reserve animals, and allow a place for print options of those animals. 
 
 ## Inclusion and Course Objectives
 
