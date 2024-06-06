@@ -20,9 +20,11 @@ Original Files on my GitHub: [Artifact One](https://github.com/CeruleanOwl/Cerul
 
 ## Original Artifact 2 Flaws
 
-Artifact 2 was originally used for CS - 300 Data Structures and Algorithms: Analysis and Design. The original implementation was to create a binary search tree for ABCU Computer Science Department to display courses and their prerequisites. The major flaw with the designed binary search tree was that the input would need to be put in a specific order to maintain the O(logn) properties of the binary search tree. For example, if the data were to be input in sorted order, the binary search tree would have the same functionality as a linked list:
+Artifact 2 was originally used for CS - 300 Data Structures and Algorithms: Analysis and Design. The original implementation was to create a binary search tree for ABCU Computer Science Department to display courses and their prerequisites. The major flaw with the designed binary search tree was that the input would need to be put in a specific order to maintain the O(logn) properties of the binary search tree. For example, if the data were to be input in sorted order, the binary search tree would have the same functionality as a linked list O(n):
 
 ![Artifact 2 Flaw](Pictures/LinkedListTree.png)
+
+Original Files on my GitHub: [Artifact Two](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/Originals/Artifact2)
 
 
 ## Original Artifact 3 Flaws
