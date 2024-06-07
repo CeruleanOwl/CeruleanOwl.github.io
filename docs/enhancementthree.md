@@ -37,3 +37,5 @@ Dashboard Display for Rescue Animals:
 Next required me to set up user authentication and during those processes, I implemented the security practice of “least privilege” to only give functionality to the database for what is required to complete their tasks and nothing more. The “Employee” was given only read/write privileges to complete their given tasks of the database. 
 
 ![MongoDB Performance](Pictures/MongoSH2.png)
+
+Enhancement Files on my GitHub: [Enhancement Three](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/Enhancements/EnhancementThree)
