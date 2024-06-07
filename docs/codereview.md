@@ -1,3 +1,3 @@
 # Code Review
 
->more text testing
+Informal Code Review Video: [YouTube Video Click Here](https://youtu.be/pQsV1HNhtfc)
