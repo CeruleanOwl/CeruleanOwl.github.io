@@ -29,4 +29,6 @@ Original Files on my GitHub: [Artifact Two](https://github.com/CeruleanOwl/Cerul
 
 ## Original Artifact 3 Flaws
 
-place holder text
+Artifact 3 was originally used for CS - 340 Client-Server Side Application. The original artifact was created with older technology of nearly a decade, while also utilizing a Linux based VM for hosting the database and Jupyter Notebook project. The major flaw was using older technology for hosting the database without monitoring systems implemented to ensure proper resource management and activity logs for security purposes. 
+
+Original Files on my GitHub: [Artifact Three](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/Originals/Artifact3)
