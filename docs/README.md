@@ -1,5 +1,19 @@
 # Home Page
 
+## Self Assessment
+
+Hello World! My name is Wesley Roberts and I this is my CS - 499 Computer Science Capstone for SNHU. I am an aspiring software developer who has been refining my skills for years while working on my Bachelors in Computer Science. I enjoy learning about data structures and algorithms, but am eager to learn all their is about new systems, technologies, and get my hands on all sorts of software for me learn about. I strive to learn best practice in anything I do an have spent long hours, every day for years, keeping a high standard of practice in every aspect of my academic career and am excited to put that same level of energy into my professional career. I have managed to maintain a 4.0 over my years at SNHU and learned valuable skills that can transfer to any field within the computer science industry. A large variety of skills such as visual computation (CS - 330), embedded systems design (CS - 350), data structures and algorithms (CS - 300), and many more leading up to those skills aquired. I even aquired a strong eye for security through some choice electives throughout my courses such as Cyber security 200 and 230, being large staples for that mindset. 
+
+## Skill Set Examples
+
+There will be many of my skills showcased here in my ePortfolio, but I am going to start by addressing the wide variety I have aquired that took more time than others due to its difficulty level. Leading the charge is going to be visual computation. I used OpenGL to create 3D meshes, add high definition textures, create shaders, navigate the 3D space, and did it all from scratch without any imported libraries. This exemplifies my ability to learn difficult C++ software while also keeping to a strict 8 week schedule and maintain results. I also collaborated with other struggling team members to help each other along on the learning process and answer each other's questions to effectively communicate new ideas for implementations throughout this 
+
+CS - 330 Showcase:
+
+![CS - 330 Final](Pictures/CS330Final.png)
+
+Original Files on my GitHub: [OpenGL Visual Computation Code](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/ShowCaseItems/CS-330/OpenGLSample)
+
 ## Task
 
 For my CS - 499 Computer Science Capstone, I am tasked with finding flaws/enhancing previous projects and creating fundamentally more sound deliverables for those projects. 
