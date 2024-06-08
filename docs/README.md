@@ -6,13 +6,35 @@ Hello World! My name is Wesley Roberts and I this is my CS - 499 Computer Scienc
 
 ## Skill Set Examples
 
-There will be many of my skills showcased here in my ePortfolio, but I am going to start by addressing the wide variety I have aquired that took more time than others due to its difficulty level. Leading the charge is going to be visual computation. I used OpenGL to create 3D meshes, add high definition textures, create shaders, navigate the 3D space, and did it all from scratch without any imported libraries. This exemplifies my ability to learn difficult C++ software while also keeping to a strict 8 week schedule and maintain results. I also collaborated with other struggling team members to help each other along on the learning process and answer each other's questions to effectively communicate new ideas for implementations throughout this 
+There will be many of my skills showcased here in my ePortfolio, but I am going to start by addressing the wide variety I have aquired that took more time than others due to its difficulty level. Leading the charge is going to be graphics visual computation. I used OpenGL to create 3D meshes, add high definition textures, create shaders, navigate the 3D space, and did it all from scratch without any imported libraries. This exemplifies my ability to learn difficult C++ software while also keeping to a strict 8 week schedule and maintain results. I also collaborated with other struggling team members to help each other along on the learning process and answer each other's questions to effectively communicate new ideas for implementations throughout this course.
 
 CS - 330 Showcase:
 
 ![CS - 330 Final](Pictures/CS330Final.png)
 
 Original Files on my GitHub: [OpenGL Visual Computation Code](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/ShowCaseItems/CS-330/OpenGLSample)
+
+Another good example of my skills would be the embedded systems course that required me to design and develop a thermostat prototype using a CS3220S Texas Instrument board. I had to utilize C programming and embedded system design to create a functional thermostat prototype for SysTec. The final goal is to develop a thermostat that sends data to a SystTec server software over Wi-Fi and my prototype is meant to showcase the ability of the low-level thermostat functionality working.
+
+CS - 350 Showcase Design:
+
+![CS - 350 Design](Pictures/CS350Design.PNG)
+
+Original Files on my GitHub: [Thermostat Prototype](https://github.com/CeruleanOwl/CeruleanOwl.github.io/tree/main/ShowCaseItems/CS-350)
+
+Video Display of Thermostat Prototype working: [Thermostat Prototype Video](https://youtu.be/v7iijYhAtmo)
+
+Fundamentally, I am able to create projects with precision and accuracy through my extensive practice of systems design principles I have learned throughout SNHU. Most projects aren't thought of on the spot and require meticulous planning before execution to ensure that everything runs smoothly for the operation. A fantastic showcase of my design implementations would be a Student Information System design I created and displayed using a Sequence diagram and a Communication Diagram to reflect behaviour of the expected system to further develop/design how the system is meant to handle user interactions.
+
+Sequence Diagram:
+
+![Sequence Diagram](Pictures/SystemsDesign1.png)
+
+Communication Diagram:
+
+![Communication Diagram](Pictures/SystemsDesign2.png)
+
+These skills have all led to my growth as a developer and I am ready to demonstrate those skills by enhancing previous projects and recognizing flaws in their original designs to unveil new solutions to the same issues.
 
 ## Task
 
